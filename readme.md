@@ -1,4 +1,4 @@
-* Render with Equirectanglar using CubeCamera and ShaderPass.
+* Equirectanglar rendering using CubeCamera and ShaderPass.
 * Based on this code
 https://github.com/spite/THREE.CubemapToEquirectangular
 * Sample http://kitasenjudesign.com/work/88/
